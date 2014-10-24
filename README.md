@@ -1,3 +1,10 @@
+# THIS IS NOT PASSPORT FACEBOOK #
+
+We have copied the passport facebook library to test with our own API as the end-points are very similar.
+
+An official PolkaSpots repository will be released shortly.
+
+
 # passport-facebook
 
 [![Build](https://travis-ci.org/jaredhanson/passport-facebook.png)](https://travis-ci.org/jaredhanson/passport-facebook)
