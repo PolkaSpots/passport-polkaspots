@@ -1,6 +1,6 @@
 {
   "name": "passport-polkaspots",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "PolkaSpots authentication strategy for Passport.",
   "keywords": [
     "passport",
