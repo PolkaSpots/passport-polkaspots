@@ -1,7 +1,7 @@
 {
-  "name": "passport-facebook",
+  "name": "passport-polkaspots",
   "version": "1.0.3",
-  "description": "Facebook authentication strategy for Passport.",
+  "description": "PolkaSpots authentication strategy for Passport.",
   "keywords": [
     "passport",
     "facebook",
